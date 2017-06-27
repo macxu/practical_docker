@@ -1,13 +1,10 @@
 #!/bin/bash
 
 echo ""
-./practical-docker-website-clone.sh
+./pencilbox-api-clone.sh
 
 echo ""
-./pencil-box-api-clone.sh
+./pencilbox-clone.sh
 
 echo ""
-./pencil-box-clone.sh
-
-echo ""
-./pencil-box-models-clone.sh
+./pencilbox-models-clone.sh
